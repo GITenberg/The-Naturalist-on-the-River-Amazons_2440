@@ -1,0 +1,54 @@
+_repo: The-Naturalist-on-the-River-Amazons_2440
+creator:
+  author:
+    agent_name: Bates, Henry Walter
+    alias: Bates, H. W. (Henry Walter)
+    birthdate: 1825
+    deathdate: 1892
+    gutenberg_agent_id: '910'
+    url: http://www.gutenberg.org/2009/agents/910
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Walter_Bates
+description: "The Naturalist on the River Amazons, subtitled A Record of the Adventures,\
+  \ Habits of Animals, Sketches of Brazilian and Indian Life, and Aspects of Nature\
+  \ under the Equator, during Eleven Years of Travel, is an 1863 book by the British\
+  \ naturalist Henry Walter Bates about his expedition to the Amazon basin. Bates\
+  \ and his friend Alfred Russel Wallace set out to obtain new species and new evidence\
+  \ for evolution by natural selection, as well as exotic specimens to sell. He explored\
+  \ thousands of miles of the Amazon and its tributaries, and collected over 14,000\
+  \ species, of which 8,000 were new to science. His observations of the coloration\
+  \ of butterflies led him to discover Batesian mimicry.\nThe book contains an evenly\
+  \ distributed mixture of natural history, travel, and observation of human societies,\
+  \ including the towns with their Catholic processions. Only the most remarkable\
+  \ discoveries of animals and plants are described, and theories such as evolution\
+  \ and mimicry are barely mentioned. Bates remarks that finding a new species is\
+  \ only the start; he also describes animal behaviour, sometimes in detail, as for\
+  \ the army ants. He constantly relates the wildlife to the people, explaining how\
+  \ the people hunt, what they eat and what they use as medicines. The book is illustrated\
+  \ with drawings by leading artists including E. W. Robinson, Josiah Wood Whymper,\
+  \ Joseph Wolf and Johann Baptist Zwecker.\nOn Bates's return to England, he was\
+  \ encouraged by Charles Darwin to write up his eleven-year stay in the Amazon as\
+  \ a book. The result was widely admired, not least by Darwin; other reviewers sometimes\
+  \ disagreed with the book's support for evolution, but generally enjoyed his account\
+  \ of the journey, scenery, people, and natural history. The book has been reprinted\
+  \ many times, mostly in Bates's own effective abridgement for the second edition,\
+  \ which omitted the more technical descriptions.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2000-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2440'
+  wikidata: Q7753268
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bates, Henry Walter, 1825-1892 -- Travel -- Amazon River Valley'
+- !lcsh 'Natural history -- Amazon River Valley'
+- !lcsh 'Amazon River Valley -- Description and travel'
+- !lcc 'QH'
+- !lcsh 'Indians of South America -- Brazil -- Social life and customs'
+title: The Naturalist on the River Amazons
+url: http://www.gutenberg.org/ebooks/2440
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Naturalist_on_the_River_Amazons
+- https://commons.wikimedia.org/wiki/The_Naturalist_on_the_River_Amazons
