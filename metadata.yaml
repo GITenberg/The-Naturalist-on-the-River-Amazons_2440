@@ -1,5 +1,8 @@
 _repo: The-Naturalist-on-the-River-Amazons_2440
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bates, Henry Walter
@@ -33,6 +36,8 @@ description: "The Naturalist on the River Amazons, subtitled A Record of the Adv
   \ of the journey, scenery, people, and natural history. The book has been reprinted\
   \ many times, mostly in Bates's own effective abridgement for the second edition,\
   \ which omitted the more technical descriptions.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2440#The-Naturalist-on-the-River-Amazons
 gutenberg_issued: '2000-12-01'
 gutenberg_type: Text
 identifiers:
