@@ -1,5 +1,5 @@
 _repo: The-Naturalist-on-the-River-Amazons_2440
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -53,6 +53,7 @@ subjects:
 - !lcsh 'Amazon River Valley -- Description and travel'
 - !lcc 'QH'
 - !lcsh 'Indians of South America -- Brazil -- Social life and customs'
+- GITenberg
 title: The Naturalist on the River Amazons
 url: http://www.gutenberg.org/ebooks/2440
 wikipedia:
